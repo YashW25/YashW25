@@ -1,133 +1,186 @@
+<!-- ========================================================= -->
+<!--                    HERO SECTION                           -->
+<!-- ========================================================= -->
 
-🚀 Yash Warulkar
+<div align="center">
 
-### **Co-Founder @ Innovara Dynamics | AI & Full Stack Engineer | Building Production-Ready Products**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,20:6D28D9,40:7C3AED,60:8B5CF6,80:A855F7,100:C026D3&text=Yash%20Warulkar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Product%20Engineer%20%E2%80%A2%20Founder&descAlignY=58&animation=fadeIn"/>
 
----
-
-## 👋 About Me
-
-I enjoy designing and building products from the ground up, turning ideas into scalable platforms that people genuinely use. As an engineer and entrepreneur, I don't step back from complex problems—I face them head-on, learn from every challenge, and use those experiences to build stronger products and make better business decisions.
-
-My passion for technology began long before I wrote my first line of code. My father was among the first people to introduce a computer to our city, and growing up around that innovation sparked a lifelong curiosity about how computers work. Whether it's hardware or software, I enjoy exploring, understanding, and building with technology.
-
-Today, that curiosity drives me to engineer AI-powered, production-ready products that solve meaningful real-world problems.
-
-## 🎯 Vision
-
-My vision is to build one of the world's leading AI companies, creating technology that empowers millions of people and businesses.
-
-Beyond building innovative products, I want to contribute to the developer community by creating open-source tools, educational resources, and real-world projects that help aspiring developers take their first steps into software engineering and AI.
-
-## 💡 Engineering Philosophy
-
-> Knowledge grows when it is shared.
-
-I believe successful businesses enable long-term innovation. My goal is to build products that solve real problems while reinvesting into open-source software, education, and developer communities.
-
-## 🧠 What Makes Me Different
-
-I leverage AI to accelerate development, but I don't rely on it to think for me.
-
-My strength lies in:
-- Solving unfamiliar engineering problems
-- Learning new technologies rapidly
-- Building complete products from architecture to deployment
-- Thinking like a product engineer
-- Creating scalable AI-powered systems
-
-## 🛠 Tech Stack
-
-### Languages
-Python • C • C++ • JavaScript • HTML • CSS • SQL
-
-### Frontend
-React • Next.js • Tailwind CSS • Zustand
-
-### Backend
-FastAPI • Flask • Node.js • Express
-
-### Database
-PostgreSQL • MySQL • SQLite • Supabase
-
-### AI
-PyTorch • TensorFlow • Hugging Face • OpenCV • YOLO • Ollama • SAM2 • SegFormer
-
-### DevOps
-Git • Docker • Vercel • Netlify • Linux
+</div>
 
 ---
 
-# ⭐ Featured Projects
+<div align="center">
 
-## OpenWebVerse
-The complete web development ecosystem combining deployment, hosting, analytics, AI, monitoring, domains, learning, marketplace, and cloud infrastructure into one platform.
+# 👋 Hi, I'm **Yash Warulkar**
 
-**Mission**
-Build an open ecosystem where developers can create, deploy, monitor, optimize and scale applications without relying on dozens of disconnected services.
+### **Co-Founder @ Innovara Dynamics • AI & Full Stack Engineer • Building Production-Ready Products**
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Products;Founder+%40+Innovara+Dynamics;Product+Engineer;Building+OpenWebVerse;Computer+Vision+Engineer;Full+Stack+Developer;Turning+Ideas+into+Production-Ready+Systems;Building+Products,+Not+Projects"/>
 
-## PeopleOS
-Enterprise workforce management platform covering onboarding, HR, attendance, projects, performance, certificates and employee lifecycle management.
+</div>
 
 ---
 
-## TilesView AI
-AI-powered tile visualization platform using computer vision, segmentation, depth estimation and rendering for realistic room visualization.
+<div align="center">
+
+### 💜 Building the future of AI-powered developer ecosystems.
+
+*"I don't build projects. I build ecosystems."*
+
+</div>
 
 ---
 
-## QueryBridge X
-AI-powered developer platform for intelligent repository understanding and software engineering workflows.
+<div align="center">
+
+<a href="https://innovaradynamics.in">
+<img src="https://img.shields.io/badge/Innovara_Dynamics-Official_Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashwarulkar">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yashwarulkar25@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YashW25">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## Innovara Dynamics
+<div align="center">
 
-Building world-class software products while helping students gain real industry experience through practical engineering.
+<img src="https://komarev.com/ghpvc/?username=YashW25&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YashW25?style=for-the-badge&color=7C3AED&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/stars/YashW25?style=for-the-badge&color=6D28D9&labelColor=111827"/>
+
+</div>
 
 ---
 
-# 🌱 Current Focus
+<div align="center">
+
+## 🚀 Engineering Identity
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Product Engineer
+
+- Build products instead of projects
+- Design scalable architectures
+- End-to-end system development
+- Enterprise software engineering
+- Production-first mindset
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Engineer
+
+- LLM Applications
+- AI Agents
+- Computer Vision
+- Intelligent Automation
+- AI-assisted Engineering
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏢 Founder
+
+- Co-Founder @ Innovara Dynamics
+- Product Strategy
+- Business Thinking
+- Open Source Vision
+- Developer Ecosystems
+
+</td>
+
+<td>
+
+### 🌍 Vision
+
+Building technology that empowers millions.
+
+Creating world-class open-source ecosystems.
+
+Making enterprise-grade software accessible.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## ⚡ Current Focus
+
+</div>
 
 ```yaml
-Learning:
-  - Distributed Systems
-  - Kubernetes
-  - Advanced AI Agents
+Current Role:
+  Co-Founder @ Innovara Dynamics
 
 Building:
   - OpenWebVerse
   - PeopleOS
+  - TilesView AI
   - AI Calling Agent
 
-Exploring:
-  - Multi-Agent AI
+Research:
+  - Agentic AI
   - Computer Vision
-  - Enterprise SaaS
+  - Distributed Systems
+  - Production AI
 
 Mission:
-  - Build products instead of projects
-  - Create open-source ecosystems
-  - Help developers build production-ready software
+  Build products that solve real-world problems.
+
+Long-Term Goal:
+  Build one of the world's leading AI companies.
 ```
 
 ---
 
-# 📈 Goals
+<div align="center">
 
-- Build one of the world's leading AI companies.
-- Make enterprise-grade technology accessible.
-- Create open-source tools used by thousands of developers.
-- Build products that solve real-world problems.
+### 💡 Personal Motto
 
----
+> **"The best engineers don't just write code—they build products that change how people work, learn, and innovate."**
 
-# 💬 Quote
-
-> "Don't follow my path—find your own. Question assumptions, embrace challenges, and have the courage to pursue ideas others consider impossible."
+</div>
 
 ---
 
-⭐ This profile is continuously evolving as I build products, contribute to open source, and work toward making AI and software engineering more accessible.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:C026D3&height=3"/>
+
+</div>
+
+
+
+
